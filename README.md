@@ -7,6 +7,9 @@
 ![images](https://github.com/lihuaqiang0101/DCGAN-Generates-Cartoon-Portraits/blob/master/17.jpg)
 
 
+![images](https://github.com/lihuaqiang0101/DCGAN-Generates-Cartoon-Portraits/blob/master/21.jpg)
+
+
 ![images](https://github.com/lihuaqiang0101/DCGAN-Generates-Cartoon-Portraits/blob/master/67.jpg)
 
 
